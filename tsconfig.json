@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "rootDir": "./src", // new
+    "outDir": "./dist", // new
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
